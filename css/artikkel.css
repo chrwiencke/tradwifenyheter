@@ -1,0 +1,67 @@
+h1 h2 h3 h4 h5 h6 p {
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+body {
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.artikkel h1 {
+    text-align: center;
+    font-size: max(36px, min(calc((36 / 580) * 100vw), 64px));
+    line-height: max(40px, min(calc((40 / 580) * 100vw), 68px));
+}
+
+.oversikt h2 {
+    text-align: center;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.artikkelnyhetene {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+    font-size: 24px;
+    line-height: 1.6;
+    background-color: #fff;
+    max-width: 800px;
+    text-align: left;
+}
+
+.containerimageandparagraph {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+    width: fit-content; 
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5%;
+}
+
+.thumbnailimage {
+    width: 100%;
+    height: auto;
+}
+
+.credittoimagetext {
+    margin: 0;
+    text-align: left;
+    width: 100%;
+    color: #666;
+}
+.content-wrapper {
+    width: 80%;
+    margin: 0 auto; 
+    padding-top: 7%;
+}
+
+.artikkelnyhetene h3 {
+    padding-top: 6%;
+}
+
+.artikkelnyhetene p {
+    padding-top: 3%;
+}
