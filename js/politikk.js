@@ -1,30 +1,12 @@
 // Define the HTML content that will be appended repeatedly
 const articleHTML = `
-    <a href="nyheter/index.html" class="linktilnyheter">
+    <a href="/politikk/grunnloven.html" class="linktilnyheter">
         <div class="big-article">
-            <img src="media/TradWife.webp" alt="Tradwife i 2024">
+            <img src="media/grunnloven.jpg" alt="Tradwife i 2024">
             <h1>Tradwife i 2024?</h1>
             <p>Forskerne sier nei til Tradwifes framkomsten</p>
         </div>
     </a>
-    <div class="small-articles">
-        <div class="small-article">
-            <h2>Trump på topp?</h2>
-            <p>This is a small article.</p>
-        </div>
-        <div class="small-article">
-            <h2>Burde Biden starte OnlyFans?</h2>
-            <p>This is a small article.</p>
-        </div>
-        <div class="small-article">
-            <h2>Kamala Harris OnlyFans har tjent millioner</h2>
-            <p>This is a small article.</p>
-        </div>
-        <div class="small-article">
-            <h2>Greit med horer på barcode?</h2>
-            <p>This is a small article.</p>
-        </div>
-    </div>
 `;
 
 // Function to append new articles to the container
