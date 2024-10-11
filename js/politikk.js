@@ -3,8 +3,8 @@ const articleHTML = `
     <a href="/politikk/grunnloven.html" class="linktilnyheter">
         <div class="big-article">
             <img src="media/grunnloven.jpg" alt="Tradwife i 2024">
-            <h1>Tradwife i 2024?</h1>
-            <p>Forskerne sier nei til Tradwifes framkomsten</p>
+            <h1>Grunnloven</h1>
+            <p>Drømmesammfunnet</p>
         </div>
     </a>
 `;
