@@ -2,7 +2,7 @@
 const articleHTML = `
     <a href="nyheter/tradwife.html" class="linktilnyheter">
         <div class="big-article">
-            <img src="media/TradWife.webp" alt="Tradwife i 2024">
+            <img src="https://artikkel.pludo.org/TradWife.webp" alt="Tradwife i 2024">
             <h1>Tradwife i 2024?</h1>
             <p>Forskerne sier nei til Tradwifes framkomsten</p>
         </div>
