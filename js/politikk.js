@@ -2,7 +2,7 @@
 const articleHTML = `
     <a href="/politikk/grunnloven.html" class="linktilnyheter">
         <div class="big-article">
-            <img src="/media/grunnloven.jpb" alt="">
+            <img src="/media/grunnloven.jpg" alt="">
             <h1>Grunnloven</h1>
             <p>Drømmesammfunnet</p>
         </div>
