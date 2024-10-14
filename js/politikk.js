@@ -2,9 +2,16 @@
 const articleHTML = `
     <a href="/politikk/grunnloven.html" class="linktilnyheter">
         <div class="big-article">
-            <img src="media/grunnloven.jpg" alt="Tradwife i 2024">
+            <img src="media/grunnloven.jpg" alt="">
             <h1>Grunnloven</h1>
             <p>Drømmesammfunnet</p>
+        </div>
+    </a>
+    <a href="/politikk/skillelinjer.html" class="linktilnyheter">
+        <div class="big-article">
+            <img src="media/skillelinjer.webp" alt="Tradwife i 2024">
+            <h1>Skillelinjer</h1>
+            <p>Politiske skillelinjer og ideologier i norsk politikk</p>
         </div>
     </a>
 `;
